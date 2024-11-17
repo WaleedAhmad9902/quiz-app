@@ -100,6 +100,8 @@ function App() {
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-r from-blue-500 to-indigo-600 text-white">
+            <h1 className="text-4xl font-bold mb-6 text-amber-500">Made By Waleed</h1>
+
       <h1 className="text-4xl font-bold mb-6">Guess the Flag Quiz</h1>
 
       {/* Progress Bar */}
